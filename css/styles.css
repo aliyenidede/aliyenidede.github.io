@@ -1,0 +1,70 @@
+.xrounded {
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+}
+
+.darkgreen {
+    color: #037d50;
+}
+
+.gradient {
+    background: #ededed;
+    background: -moz-linear-gradient(top, #ededed 0%, #ffffff 28%, #ffffff 100%);
+    background: -webkit-linear-gradient(top, #ededed 0%, #ffffff 28%, #ffffff 100%);
+    background: linear-gradient(to bottom, #ededed 0%, #ffffff 28%, #ffffff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#ffffff', GradientType=0);
+}
+
+section > pe {
+    position: absolute;
+    top: 40px;
+    left: 25px;
+}
+
+nav > div > ul > li > a:hover {
+    color: #2fdf9e;
+    transition: color 0.5s;
+}
+
+nav > a > h1:hover {
+    opacity: 60%;
+    transition: opacity 0.5s;
+}
+
+footer {
+    background-color: #037d50;
+    position: absolute;
+    width: 100%;
+}
+
+footer > div > div > a:hover {
+    opacity: 60%;
+    transition: opacity 0.5s;
+}
+
+figure {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.bg-darkgreen {
+    background-color: #037d50 !important;
+}
+
+.teamhover:hover {
+    -webkit-box-shadow: 0px 7px 101px -19px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 7px 101px -19px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 7px 101px -19px rgba(0, 0, 0, 0.75);
+    transition: box-shadow 0.8s;
+}
+
+.hover:hover {
+    opacity: 90%;
+}
+
+.bg-leaf {
+    background-image: url("../img/bg-leaf-3.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: 140%;
+}
