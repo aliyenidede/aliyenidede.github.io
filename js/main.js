@@ -10,8 +10,7 @@
             animateOut: 'fadeOut',
             nav: true,
             navText: [
-                '<i class="ion-ios-arrow-thin-left"></i>',
-                '<i class="ion-ios-arrow-thin-right"></i>'
+                
             ],
             items: 1,
             navSpeed: 400,

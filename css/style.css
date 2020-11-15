@@ -501,7 +501,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .slide.one {
-	background: url(../images/slider/slide1.jpg) 48% 48%;
+	background: url(../images/slider/slide2.jpg) 48% 48%;
 	background-size: cover;
 }
 
@@ -511,14 +511,11 @@ a:not([href]):not([tabindex]) {
 }
 
 .slide.three {
-	background: url(../images/slider/slide3.jpg) 48% 48%;
+	background: url(../images/slider/slide2.jpg) 48% 48%;
 	background-size: cover;
 }
 
-.slide.four {
-	background: url(../images/slider/slide4.jpg) 48% 48%;
-	background-size: cover;
-}
+
 
 #lionhero .owl-nav {
 	color: #fff;
@@ -1020,7 +1017,7 @@ h2.menu-item:after {
 
 .social li i {
 	line-height: 32px;
-	font-size: 16px;
+	font-size: 32px;
 }
 
 .social a:hover {
