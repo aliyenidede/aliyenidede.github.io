@@ -625,7 +625,7 @@ h2.blog.menu-item:before {
 }
 
 h2.contact.menu-item:before {
-	content: '04';
+	content: '03';
 }
 
 .menu-block:hover h2.menu-item:before {
@@ -1693,9 +1693,7 @@ h4.package {
 	border: 1px solid rgba(51, 51, 51, 0.4);
 }
 
-.blog-block:hover {
-	border: 15px solid rgba(255, 255, 255, 0.1);
-}
+
 
 .blog-block-container {
 	display: table-cell;
